@@ -1,2 +1,4 @@
-# Timewinder-Link-Resolver
-For Mixmax coding challenge
+# Timewinder Link Resolver
+
+Resolves Timewinder profiles for Mixmax
+

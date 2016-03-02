@@ -1,0 +1,16 @@
+{
+  "name": "timewinder-resolver",
+  "version": "0.0.1",
+  "description": "Timewinder profile link resolver for Mixmax",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "dependencies": {
+    "cors": "^2.7.1",
+    "express": "^4.12.3",
+    "request": "^2.64.0",
+  },
+  "devDependencies": {
+    "nodemon": "^1.7.1"
+  }
+}

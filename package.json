@@ -12,7 +12,7 @@
   "author": "Peter Li",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/nullCodex/Timewinder-Link-Resolver/issues"
+    "url": "https://github.com/tyuo9980/Timewinder-Link-Resolver/issues"
   },
   "dependencies": {
     "cors": "^2.7.1",

@@ -5,10 +5,19 @@
   "scripts": {
     "start": "nodemon server.js"
   },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/tyuo9980/Timewinder-Link-Resolver.git"
+  },
+  "author": "Peter Li",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nullCodex/Timewinder-Link-Resolver/issues"
+  },
   "dependencies": {
     "cors": "^2.7.1",
     "express": "^4.12.3",
-    "request": "^2.64.0",
+    "request": "^2.64.0"
   },
   "devDependencies": {
     "nodemon": "^1.7.1"
